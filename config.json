@@ -1,0 +1,11 @@
+{
+    "Training_Dir" :  "MLdataset/train_val",
+    "Label_Path"   :  "MLdataset/train_val_1.csv",
+    "Test_Dir"     :  "MLdataset/test",
+    "_comment_"    :  "The shape of the tensor feed into the network(namly HxW)",
+    "H"            :  256,
+    "W"            :  256,
+    "GPU"          :  "0",
+    "DEVICE"       :  "cuda",
+    "epoch"        :  100
+}
